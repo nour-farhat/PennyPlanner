@@ -10,18 +10,26 @@ If your project has a lot of features, consider adding a "Features" section and 
 
 STEPS TO WRITE THE README:
 
-Project's Title
+Expense tracking and budget management in PennyPlanner
 
-Project Description (What your application does, Why you used the technologies you used, Some of the challenges you faced and features you hope to implement in the future.)
+Project Description
 
-Table of Contents (Optional)
+PennyPlanner is a user-friendly application designed to help students meticulously monitor their expenditures through personalised categories. This tool empowers users to effortlessly manage their budgets, paving the way for them to achieve their savings objectives.
+(write this later when we get full code(Why you used the technologies you used, Some of the challenges you faced and features you hope to implement in the future.))
 
 How to Install and Run the Project ( description of how to get the development environment set and running)
 
+To execute the project, place the code into an integrated development environment (IDE) such as PyCharm or Colab, install the required packages, and run the application.
 How to Use the Project
 
-Include Credits
+Credits
 
-Add a License
+Clementine Mathieu 
+Daniel Teixidor 
+Jimena Navarro 
+Rakan Hourani 
+Nour Farhat
+
+License?
 
 Include Tests
