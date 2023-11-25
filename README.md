@@ -24,10 +24,10 @@ How to Use the Project
 
 Credits
 
-Clementine Mathieu 
-Daniel Teixidor 
-Jimena Navarro 
-Rakan Hourani 
+Clementine Mathieu, 
+Daniel Teixidor, 
+Jimena Navarro,
+Rakan Hourani, 
 Nour Farhat
 
 License?
