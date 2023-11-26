@@ -28,10 +28,10 @@ After a user enters our platform:
 2) Customized categories and allocation amounts: Users will be prompted to input their chosen personalized category and the desired monetary allocation for that category. Upon completion of category creation, users can signify completion by entering "done."
 
 
-4) Visualization of user's budget: After completing the previous steps, users will encounter a pie chart illustrating the distribution of their allocated funds among various categories. Additionally, an automated savings category will be generated, displaying the amount saved if the total budget was not fully allocated.
+3) Visualization of user's budget: After completing the previous steps, users will encounter a pie chart illustrating the distribution of their allocated funds among various categories. Additionally, an automated savings category will be generated, displaying the amount saved if the total budget was not fully allocated.
 
 
-5) Expense tracking and history: Finally, users will be prompted to input their expenses within the designated category they created, and they will receive an overview of their expense history. Users will need to input the name of a category they have created and the corresponding expense amount.
+4) Expense tracking and history: Finally, users will be prompted to input their expenses within the designated category they created, and they will receive an overview of their expense history. Users will need to input the name of a category they have created and the corresponding expense amount.
 
 
 
