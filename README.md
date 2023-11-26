@@ -39,15 +39,11 @@ After a user enters our platform:
 # Credits:
 The authors for this project are:   
 
-Clementine Mathieu 
-
-Daniel Teixidor
-
-Jimena Navarro
-
-Rakan Hourani 
-
-Nour Farhat
+- Clementine Mathieu 
+- Daniel Teixidor
+- Jimena Navarro
+- Rakan Hourani 
+- Nour Farhat
 
 # SOME EXTRA INFORMATION ABOUT THE CODE
 In order to carry out our objective, we have used the following data structures and algorithms:
