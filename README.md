@@ -38,10 +38,15 @@ After a user enters our platform:
 
 # Credits:
 The authors for this project are:   
+
 Clementine Mathieu 
+
 Daniel Teixidor
+
 Jimena Navarro
+
 Rakan Hourani 
+
 Nour Farhat
 
 # SOME EXTRA INFORMATION ABOUT THE CODE
