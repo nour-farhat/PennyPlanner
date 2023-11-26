@@ -12,7 +12,7 @@ How to Install and Run the Project:
 To execute the project, place the code into an integrated development environment (IDE) such as PyCharm or Colab, install the required packages, and run the application.
 How to Use the Project
 
-Credits
+Credits:
 
 Clementine Mathieu, 
 Daniel Teixidor, 
