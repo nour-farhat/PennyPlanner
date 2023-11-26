@@ -1,6 +1,6 @@
 # PennyPlanner
 
-Expense tracking and budget management in PennyPlanner
+Expense tracking and budget management in PennyPlanner.
 
 Project Description:
 
