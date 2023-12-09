@@ -7,7 +7,7 @@ Expense tracking and budget management in PennyPlanner.
 PennyPlanner is a user-friendly application designed to help students meticulously monitor their expenditures through personalised categories. This tool empowers users to effortlessly manage their budgets, paving the way for them to achieve their savings objectives.
 This application was developed using the PyCharm integrated development environment (IDE). The primary challenge encountered revolved around ensuring the user-friendliness of the application and making the code easily understandable for third parties. Looking ahead, our aspirations include integrating a robust user interface with enhanced functionalities and increased personalization.
 
-# Installation:
+# Requirements:
 
 To be able to run our program, make sure you have the following elements installed:
 
@@ -15,8 +15,17 @@ To be able to run our program, make sure you have the following elements install
   - Libraries - In order to run our program, we make use of the following library: matplotlib.pyplot as plt  
         To download the library type the following command:   
     ```pip install matplotlib ``` 
+
+# Installation:
   
-  Now that we have the required library set up, open the file named Code, copy the code, paste it in an IDE and run the program. 
+Now that the required library is set up, Follow these final steps to download the zip file from the repository:
+
+open the file named Code, copy the code, paste it in an IDE and run the program. 
+
+Step 1. Download the ZIP from the code file
+Step 2. Import the ZIP file in your IDE environment and simply run the code
+
+The code can also be imported into an online IDE environment, such as Google Colab. As our code doesn't rely on any datasets, you shouldn't encounter any issues during the import and execution process.
 
 # Usage:
 
@@ -33,8 +42,8 @@ After a user enters our platform:
 
 4) Expense tracking and history: Finally, users will be prompted to input their expenses within the designated category they created, and they will receive an overview of their expense history. Users will need to input the name of a category they have created and the corresponding expense amount.
 
-
-
+This video will give you a quick tutorial on how to use the application:
+https://drive.google.com/file/d/1noesa8NmtBWf-e-t1dqDPuW9gzX6gd8e/view?usp=drive_link
 
 # Credits:
 The authors for this project are:   
