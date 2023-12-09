@@ -21,7 +21,9 @@ To be able to run our program, make sure you have the following elements install
 Now that the required library is set up, Follow these final steps to download the zip file from the repository:
  
 Step 1. Open the PennyPlanner_Final.py.zip file
+
 Step 2. Download the ZIP
+
 Step 3. Import the ZIP file in your IDE environment and simply run the code
 
 The code can also be imported into an online IDE environment, such as Google Colab. As our code doesn't rely on any datasets, you shouldn't encounter any issues during the import and execution process.
