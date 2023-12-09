@@ -4,7 +4,7 @@ Expense tracking and budget management in PennyPlanner.
 
 # Project Description:
 
-PennyPlanner is a user-friendly application designed to help students meticulously monitor their expenditures through personalised categories. This tool empowers users to effortlessly manage their budgets, paving the way for them to achieve their savings objectives.
+PennyPlanner is a user-friendly application designed to help students meticulously monitor their expenses through personalised categories. This tool empowers users to effortlessly manage their budgets, allowing them to achieve their savings objectives.
 This application was developed using the PyCharm integrated development environment (IDE). The primary challenge encountered revolved around ensuring the user-friendliness of the application and making the code easily understandable for third parties. Looking ahead, our aspirations include integrating a robust user interface with enhanced functionalities and increased personalization.
 
 # Requirements:
@@ -19,11 +19,10 @@ To be able to run our program, make sure you have the following elements install
 # Installation:
   
 Now that the required library is set up, Follow these final steps to download the zip file from the repository:
-
-open the file named Code, copy the code, paste it in an IDE and run the program. 
-
-Step 1. Download the ZIP from the code file
-Step 2. Import the ZIP file in your IDE environment and simply run the code
+ 
+Step 1. Open the folder named Code
+Step 2. Download the ZIP file
+Step 3. Import the ZIP file in your IDE environment and simply run the code
 
 The code can also be imported into an online IDE environment, such as Google Colab. As our code doesn't rely on any datasets, you shouldn't encounter any issues during the import and execution process.
 
@@ -46,6 +45,7 @@ This video will give you a quick tutorial on how to use the application:
 https://drive.google.com/file/d/1noesa8NmtBWf-e-t1dqDPuW9gzX6gd8e/view?usp=drive_link
 
 # Credits:
+
 The authors for this project are:   
 
 - Clementine Mathieu 
@@ -55,6 +55,7 @@ The authors for this project are:
 - Nour Farhat
 
 # SOME EXTRA INFORMATION ABOUT THE CODE
+
 In order to carry out our objective, we have used the following data structures and algorithms:
 
   1. Hash Tables - Used to store all details regarding the opportunities
